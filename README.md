@@ -7,4 +7,6 @@
 2.*Trying new activities or hobbies can also help keep your brain tuned up*
 
 
-3.*read* 
+3.*read*
+
+4.*play games and puzzels*
