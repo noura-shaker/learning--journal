@@ -25,7 +25,11 @@
 
 ![](https://www.wikihow.com/images/thumb/c/ca/Improve-Mind-Power-Step-7.jpg/aid1220738-v4-900px-Improve-Mind-Power-Step-7.jpg)
 
-**Motivational phrases that i use :
+**how to motivate my self and support:**
+
+"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice.” 
+
+
 
 1.*i can do it*
 
