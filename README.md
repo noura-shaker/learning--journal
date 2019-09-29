@@ -1,9 +1,10 @@
 # growth mindset  
-#i can get smarter by learning my goal and effort make me stronger and i would spend more time to learning
+#i can get smarter by learning my goal so effort make me stronger and i would spend more time to learning
 **so how can we develop our growth mindset ?**
 
-1.Learn new skills
+1.*Learn new skills*
 
-2.Trying new activities or hobbies can also help keep your brain tuned up.
+2.*Trying new activities or hobbies can also help keep your brain tuned up*
 
-3. read 
+
+3.*read* 
