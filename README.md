@@ -10,3 +10,4 @@
 3.*read*
 
 4.*play games and puzzels*
+ 5.*Focus and review. Commit to focusing closely on learning and improving your thinking*
