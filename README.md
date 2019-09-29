@@ -30,7 +30,6 @@
 "Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice.” 
 
 
-
 1.*i can do it*
 
 2.*draw my dream if i want to hang in somewhere in my bedroom.*
