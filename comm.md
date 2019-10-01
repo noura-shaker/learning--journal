@@ -31,3 +31,5 @@ To begin with, we have to understand that the file system under linux is a hiera
 Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
 Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+
