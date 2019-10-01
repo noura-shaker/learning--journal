@@ -1,6 +1,6 @@
 # javascript:
 
-JavaScript is The programming language of HTML and the Web.
+JavaScript is the programming language of HTML and the Web.
 
 *Why Study JavaScript?*
 
