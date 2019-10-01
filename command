@@ -15,3 +15,9 @@ This tutorial will assume you are using bash as your shell.
 
 use a command called echo to display a system variable stating your current shell. 
 echo is a command which is used to display messages.
+
+# Basic Navigation
+
+1.*pwd* which stands for Print Working Directory. 
+
+2.*ls* The command for this task is 
