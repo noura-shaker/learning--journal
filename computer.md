@@ -18,5 +18,4 @@ The software components of a computer system are the data and the computer progr
 
 The hardware components of a computer system are the electronic and mechanical parts.
 The software components of a computer system are the data and the computer programs.
-
-f
+ 
