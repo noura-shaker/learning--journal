@@ -13,7 +13,7 @@ website, think about how you want the site to look and be set up.
   when designing your web page.
 
   # *Writing basic :*
-The above code is a very basic example of the code that helps make up every web page.
+The above code is a  very basic example of the code that helps make up every web page.
  As you can see, the code starts with <html>, which is defining that everything within <html> is HTML code.
       Next, you have <head>, which is defining the heading of your HTML document. Third, we have the <title> section
            within <head>, which defines the web page title that is displayed at the top of the Internet browser window. 
