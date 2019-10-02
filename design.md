@@ -36,8 +36,3 @@ you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already
 
 ![see this](https://www.mrc-productivity.com/forum/images/semantics.jpg)
-
-
-    
-   
-
