@@ -33,7 +33,7 @@ site. It shows the hierarchy of the information and how much space it might requ
   HTML5 introduces a new set of elements that allow you to divide up the
 parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
-stopped many web page authors using them already
+stopped many web page authors using them already.
 
 ![see this](https://www.mrc-productivity.com/forum/images/semantics.jpg)
 
