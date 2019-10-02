@@ -35,10 +35,9 @@ parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already
 
-![](https://www.mrc-productivity.com/forum/images/semantics.jpg)
+![see this](https://www.mrc-productivity.com/forum/images/semantics.jpg)
 
 
     
    
 
-   
